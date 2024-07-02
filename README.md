@@ -15,6 +15,7 @@ leethub practice question
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,12 @@ leethub practice question
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
