@@ -35,6 +35,7 @@ leethub practice question
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -57,5 +58,6 @@ leethub practice question
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
