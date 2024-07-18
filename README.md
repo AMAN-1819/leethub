@@ -16,6 +16,7 @@ leethub practice question
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -33,6 +34,7 @@ leethub practice question
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -41,6 +43,7 @@ leethub practice question
 | ------- |
 | [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
