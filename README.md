@@ -6,6 +6,7 @@ leethub practice question
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/AMAN-1819/leethub/tree/master/0792-binary-search) |
@@ -68,5 +69,10 @@ leethub practice question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
