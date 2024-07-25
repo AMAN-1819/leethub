@@ -48,6 +48,7 @@ leethub practice question
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
+| [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +106,16 @@ leethub practice question
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
