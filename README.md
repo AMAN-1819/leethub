@@ -75,4 +75,8 @@ leethub practice question
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/AMAN-1819/leethub/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
