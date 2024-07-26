@@ -73,6 +73,7 @@ leethub practice question
 | ------- |
 | [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
@@ -118,4 +119,12 @@ leethub practice question
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
