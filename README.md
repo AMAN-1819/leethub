@@ -111,6 +111,7 @@ leethub practice question
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -132,4 +133,8 @@ leethub practice question
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AMAN-1819/leethub/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
