@@ -24,6 +24,7 @@ leethub practice question
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ leethub practice question
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AMAN-1819/leethub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
@@ -137,4 +139,8 @@ leethub practice question
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
