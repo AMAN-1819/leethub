@@ -44,6 +44,7 @@ leethub practice question
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AMAN-1819/leethub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AMAN-1819/leethub/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
@@ -127,4 +128,8 @@ leethub practice question
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AMAN-1819/leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
