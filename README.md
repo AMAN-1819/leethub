@@ -9,6 +9,7 @@ leethub practice question
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/AMAN-1819/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/AMAN-1819/leethub/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AMAN-1819/leethub/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
@@ -64,6 +65,7 @@ leethub practice question
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/AMAN-1819/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AMAN-1819/leethub/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
