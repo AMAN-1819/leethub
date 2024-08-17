@@ -18,6 +18,7 @@ leethub practice question
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ leethub practice question
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
 | ------- |
