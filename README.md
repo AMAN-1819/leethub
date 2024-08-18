@@ -23,6 +23,7 @@ leethub practice question
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -63,6 +64,7 @@ leethub practice question
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
@@ -104,6 +106,7 @@ leethub practice question
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -125,6 +128,7 @@ leethub practice question
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
