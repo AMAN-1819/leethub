@@ -1,8 +1,8 @@
 class Solution {
 public:
     string fractionAddition(string expression) {
-        int numo =0;
-        int deno =1;
+        int numerator =0;
+        int denominator =1;
         int i=0;
         int n= expression.size();
         while(i<n)
@@ -21,13 +21,13 @@ public:
         while(i<n && isdigit(expression[i]))
         {den=den*10+(expression[i]-'0');
         i++;}
-        numo=numo*den+num*deno;
-        deno*=den;
-        int gcdVal=gcd(abs(numo),deno);
-        numo/=gcdVal;
-        deno/=gcdVal;
+        numerator=numerator*den+num*denominator;
+        denominator*=den;
+        int gcdVal=gcd(abs(numerator),denominator);
+        numerator/=gcdVal;
+        denominator/=gcdVal;
         }
-        return  to_string(numo)+'/'+to_string(deno);
+        return  to_string(numerator)+'/'+to_string(denominator);
         
         
     }
