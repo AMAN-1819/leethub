@@ -61,6 +61,7 @@ leethub practice question
 | [0387-first-unique-character-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ leethub practice question
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AMAN-1819/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -134,6 +136,7 @@ leethub practice question
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/AMAN-1819/leethub/tree/master/0650-2-keys-keyboard) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
