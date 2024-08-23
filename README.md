@@ -6,6 +6,7 @@ leethub practice question
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AMAN-1819/leethub/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/AMAN-1819/leethub/tree/master/0238-product-of-array-except-self) |
@@ -22,6 +23,7 @@ leethub practice question
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AMAN-1819/leethub/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
