@@ -96,6 +96,7 @@ leethub practice question
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
@@ -177,10 +178,12 @@ leethub practice question
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
