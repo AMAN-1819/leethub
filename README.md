@@ -12,6 +12,7 @@ leethub practice question
 | [0238-product-of-array-except-self](https://github.com/AMAN-1819/leethub/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/AMAN-1819/leethub/tree/master/0624-maximum-distance-in-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AMAN-1819/leethub/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AMAN-1819/leethub/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
@@ -70,6 +71,7 @@ leethub practice question
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/AMAN-1819/leethub/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
