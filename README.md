@@ -23,6 +23,7 @@ leethub practice question
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leethub practice question
 | [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AMAN-1819/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
@@ -194,4 +196,8 @@ leethub practice question
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
