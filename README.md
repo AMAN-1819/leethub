@@ -22,6 +22,7 @@ leethub practice question
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
+| [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -77,6 +78,7 @@ leethub practice question
 | [0747-min-cost-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/AMAN-1819/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMAN-1819/leethub/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ leethub practice question
 | [0624-maximum-distance-in-arrays](https://github.com/AMAN-1819/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AMAN-1819/leethub/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
 ## Linked List
 |  |
 | ------- |
