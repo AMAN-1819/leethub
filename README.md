@@ -18,6 +18,7 @@ leethub practice question
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/AMAN-1819/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMAN-1819/leethub/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1503-reducing-dishes](https://github.com/AMAN-1819/leethub/tree/master/1503-reducing-dishes) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -53,6 +54,7 @@ leethub practice question
 | [0242-valid-anagram](https://github.com/AMAN-1819/leethub/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/AMAN-1819/leethub/tree/master/0948-sort-an-array) |
+| [1503-reducing-dishes](https://github.com/AMAN-1819/leethub/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -78,6 +80,7 @@ leethub practice question
 | [0747-min-cost-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/AMAN-1819/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMAN-1819/leethub/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1503-reducing-dishes](https://github.com/AMAN-1819/leethub/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AMAN-1819/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
@@ -85,6 +88,7 @@ leethub practice question
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/AMAN-1819/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AMAN-1819/leethub/tree/master/0890-lemonade-change) |
+| [1503-reducing-dishes](https://github.com/AMAN-1819/leethub/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
 ## Linked List
