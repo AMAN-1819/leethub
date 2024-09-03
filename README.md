@@ -69,6 +69,7 @@ leethub practice question
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AMAN-1819/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ leethub practice question
 | [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1803-average-waiting-time](https://github.com/AMAN-1819/leethub/tree/master/1803-average-waiting-time) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AMAN-1819/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AMAN-1819/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
