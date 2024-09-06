@@ -74,6 +74,7 @@ leethub practice question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
@@ -152,6 +153,7 @@ leethub practice question
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
@@ -209,4 +211,8 @@ leethub practice question
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AMAN-1819/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
