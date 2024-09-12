@@ -96,6 +96,7 @@ leethub practice question
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AMAN-1819/leethub/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AMAN-1819/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AMAN-1819/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
