@@ -9,6 +9,7 @@ leethub practice question
 | [0001-two-sum](https://github.com/AMAN-1819/leethub/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AMAN-1819/leethub/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/AMAN-1819/leethub/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AMAN-1819/leethub/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +127,7 @@ leethub practice question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AMAN-1819/leethub/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AMAN-1819/leethub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/AMAN-1819/leethub/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
