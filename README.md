@@ -45,6 +45,7 @@ leethub practice question
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AMAN-1819/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ leethub practice question
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AMAN-1819/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AMAN-1819/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AMAN-1819/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3462-vowels-game-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -95,6 +97,7 @@ leethub practice question
 | [1503-reducing-dishes](https://github.com/AMAN-1819/leethub/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AMAN-1819/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1952-minimum-sideway-jumps](https://github.com/AMAN-1819/leethub/tree/master/1952-minimum-sideway-jumps) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AMAN-1819/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +123,7 @@ leethub practice question
 | [0225-implement-stack-using-queues](https://github.com/AMAN-1819/leethub/tree/master/0225-implement-stack-using-queues) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AMAN-1819/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AMAN-1819/leethub/tree/master/1552-build-an-array-with-stack-operations) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AMAN-1819/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
