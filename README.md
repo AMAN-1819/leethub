@@ -230,4 +230,8 @@ leethub practice question
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AMAN-1819/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/AMAN-1819/leethub/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
