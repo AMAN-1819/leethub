@@ -10,6 +10,7 @@ leethub practice question
 | [0084-largest-rectangle-in-histogram](https://github.com/AMAN-1819/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN-1819/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AMAN-1819/leethub/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/AMAN-1819/leethub/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AMAN-1819/leethub/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AMAN-1819/leethub/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ leethub practice question
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN-1819/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AMAN-1819/leethub/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/AMAN-1819/leethub/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AMAN-1819/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AMAN-1819/leethub/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AMAN-1819/leethub/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -164,6 +166,7 @@ leethub practice question
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AMAN-1819/leethub/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AMAN-1819/leethub/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/AMAN-1819/leethub/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/AMAN-1819/leethub/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AMAN-1819/leethub/tree/master/0412-fizz-buzz) |
