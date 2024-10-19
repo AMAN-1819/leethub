@@ -238,6 +238,7 @@ leethub practice question
 | ------- |
 | [0584-find-customer-referee](https://github.com/AMAN-1819/leethub/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AMAN-1819/leethub/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/AMAN-1819/leethub/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/AMAN-1819/leethub/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AMAN-1819/leethub/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
